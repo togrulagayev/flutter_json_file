@@ -1,0 +1,19 @@
+{
+    "cars": [
+        {
+            "brand": "BMW",
+            "year": "2020",
+            "price": 40000
+        },
+        {
+            "brand": "Mercedes",
+            "year": "2019",
+            "price": 30000
+        },
+        {
+            "brand": "Toyota",
+            "year": "2023",
+            "price": 20000
+        }
+    ]
+}
